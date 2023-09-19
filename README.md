@@ -10,4 +10,4 @@ Um conversor de base é uma ferramenta ou dispositivo que permite a **conversão
 
 - **Conversão de Base para Base**: Às vezes, é necessário converter números de uma base para outra. Por exemplo, converter um número octal para um número hexadecimal. Um conversor de base torna essa tarefa simples.
 
-![Sistema de Conversão de Bases](G:\web\images_projects_web\Projeto_conversor_de_bases_wemersonnino.github.io.png "Tela do Sistema de Conversão de Bases")
+![Sistema de Conversão de Bases](/images/Projeto_conversor_de_bases_wemersonnino.github.io.png "Tela do Sistema de Conversão de Bases")
